@@ -1,0 +1,22 @@
+{
+  "name": "http_req",
+  "version": "1.0.0",
+  "description": "",
+  "main": "httpReq.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wisara8/http_requests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wisara8/http_requests/issues"
+  },
+  "homepage": "https://github.com/Wisara8/http_requests#readme",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
